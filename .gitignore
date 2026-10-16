@@ -1,0 +1,9 @@
+# Datos personales: nunca se suben a GitHub
+datos/*
+!datos/LEEME.txt
+perfil/
+*.dvw
+*.pdf
+the-brain-copia*.json
+.DS_Store
+Thumbs.db
