@@ -1,9 +1,0 @@
-Aquí The Brain guarda tus datos:
-
-  partidos\     un archivo .json por cada partido
-  dvw\          una copia de cada .dvw que subas
-  notas\        tus notas, en archivos .md (se pueden abrir con Obsidian o el Bloc de notas)
-  ajustes.json  clubes unidos y jugadores quitados de un equipo
-
-Para hacer copia de seguridad, copia esta carpeta entera (a un USB, a otro disco...).
-Para pasar tus datos a otro ordenador, copia la carpeta y elígela al abrir The Brain.
